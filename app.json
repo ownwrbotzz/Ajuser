@@ -4,8 +4,8 @@
     "logo": "https://i.ibb.co/Y2mXdR5/ajuser.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/ownwrbotzz/Ajuser",
-    "website":   "https://github.com/aju001/Ajuser",
-    "success_url": "https://github.com/aju001/Ajuser",
+    "website":   "https://github.com/ownwrbotzz/Ajuser",
+    "success_url": "https://github.com/ownwrbotzz/Ajuser",
     "stack": "container",
     "env": {
         "AJU_SESSION": {
